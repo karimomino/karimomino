@@ -3,10 +3,8 @@
 ## I'm a Student, Developer, Short Film Maker, and Gamer!!!!
 
 - 🔭 Currently trying to complete my foundation phase at School 42.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I Dj and make music on the side!
 
 <br />
 
