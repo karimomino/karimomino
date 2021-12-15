@@ -21,5 +21,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></br></br>
 
+### Current 42-Abu Dhabi Progress:
+[![kamin's 42 stats](https://badge42.herokuapp.com/api/stats/kamin?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)</br></br>
+
 ### Contribution This Year:
 ![snake gif](https://github.com/karimomino/karimomino/blob/output/github-contribution-grid-snake.svg)
