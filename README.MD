@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developer, Short Film Maker, and Gamer!!!!
 
-- 🔭 Currently trying to complete my foundation phase at School 42.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭 Currently trying to create my own linux distro.
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I Dj and make music on the side!
 
 ### Languages and Tools:
